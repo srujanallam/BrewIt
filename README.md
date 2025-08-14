@@ -45,11 +45,7 @@ BrewIt/
 
 ## Getting Started
 
-### 1. Open Directly
-
-Just open `BrewIt.html` in your browser.
-
-### 2. Run Local Server (Recommended)
+Run Local Server (Recommended)
 
 ```bash
 # For Python 3
